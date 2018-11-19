@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "../node_modules/bootstarp/dist/css/bootstarp.min.css",
               "src/styles.css"
             ],
             "scripts": []
