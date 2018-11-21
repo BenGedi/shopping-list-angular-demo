@@ -1,0 +1,7 @@
+.col-xs-12 button {
+    margin-right: 5px; 
+}
+
+form > div {
+    padding-left: 0;
+}
